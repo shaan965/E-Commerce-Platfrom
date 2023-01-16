@@ -1,0 +1,60 @@
+GDN0001;Sunflower seeds;519
+GDN0002;Lettuce seeds;329
+GDN0003;Yellowfin zucchini seeds;549
+GDN0004;Cherry tomato seeds;429
+GDN0005;Fernleaf dill seeds;329
+GDN0006;Orangelo thyme seeds;399
+GDN0007;Broccolini seeds;579
+GDN0008;Pumpkin seeds;329
+GDN0009;Sweet pea seeds;429
+GDN0010;Marigold seeds;329
+GDN0011;Goji berry seeds;469
+GDN0012;Garden tools (5-pc);2599
+GDN0013;Garden gloves (S);699
+GDN0014;Garden gloves (M);799
+GDN0015;Garden gloves (L);899
+GDN0016;Water hose (25 ft);2250
+GDN0017;Indoor lime tree;4999
+GDN0018;Indoor flamingo flower;1999
+GDN0019;Indoor violet;899
+GDN0020;Indoor orchid;3999
+BK0001;The Day the Crayons Quit;2380
+BK0002;The Giving Tree;2199
+BK0003;Where the Wild Things Are;995
+BK0004;Oh the Places You'll Go;2461
+BK0005;Green Eggs & Ham;1299
+BK0006;Velveteen Rabbit;1999
+BK0007;Winnie the Pooh;1099
+BK0008;The Very Hungry Caterpillar;1499
+BK0009;Goodnight Moon;1039
+BK0010;The Gruffalo;1320
+BK0011;Charlotte's Web;1099
+BK0012;Little Prince;1495
+BK0013;Cat in the Hat;1299
+BK0014;Secret Garden;2299
+BK0015;Anne of Green Gables;1800
+BK0016;James & the Giant Peach;899
+BK0017;Peter Rabbit Collection;2995
+BK0018;Hunger Games Set;4999
+BK0019;Harry Potter Box Set;10000
+BK0020;Lord of the Rings;16000
+TY0001;500pc puzzle:dragons;1549
+TY0002;100pc puzzle:space;1399
+TY0003;200pc puzzle:dinosaurs;1449
+TY0004;300pc puzzle:underwater adventure;1499
+TY0005;750pc puzzle:tropical birds;2499
+TY0006;1000pc puzzle:wolves;2099
+TY0007;1500pc puzzle:world map;2699
+TY0008;2000pc puzzle:castle;3499
+TY0009;5000pc puzzle:sistine chapel;8999
+TY0010;18000pc puzzle:paradise;16999
+TY0011;3D puzzle:Eiffel tower;3699
+TY0012;3D puzzle:Statue Liberty;3699
+TY0013;3D puzzle:Big Ben;2849
+TY0014;Board game:Ticket to Ride;6999
+TY0015;Board game:Monopoly;1999
+TY0016;Board game:Risk;3999
+TY0017;Board game:Scrabble;2499
+TY0018;Board game:Trivial Pursuit;2999
+TY0019;Board game:Catan;5999
+TY0020;Yahtzee;1493
